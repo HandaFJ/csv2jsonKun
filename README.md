@@ -32,7 +32,7 @@ deno install
 deno task dev
 ```
 
-3. ブラウザで表示されたローカルURL（例: http://localhost:5173）にアクセスします。
+3. ブラウザで表示されたローカルURL（例: http://localhost:5173 ）にアクセスします。
 
 ## オプション設定
 
